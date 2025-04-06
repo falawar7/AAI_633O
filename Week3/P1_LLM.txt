@@ -1,0 +1,34 @@
+Alpha fold AI was developed by Google Deep mind, the first non-experimental method that can rapidly accomplish accuracy with comparable experiments. It can predict the 3D structures of proteins based on their amino acid sequences. 
+Researchers were successfully determined protein structured by methods and tools such as X-ray crystallography Nuclear Magnetic Resonance and cryoelectronic microscopy but these methods are expensive and take time to have results , but now with Alpha fold 2 and its Evoformer  Neural network unique it can leverage its generative capabilities for generating new output based on the learned patterns from Data processing , analysis , visualization on 3d Models and prediction. The generative capabilities listed below are:
+1.	Learning patterns : the learn patterns is being utilizes by the Deep Neural Network(Evoformer) in the data where it focus on the relationships between the sequence of amino acid the outputs in the 3D protein structure
+2.	Predictions: once its trained, it uses the learned pattern to predict the 3d model for the protein structures that not been determined experimentally.  
+3.	Reinforcement process: it refines it predictions by leveraging the data evolution and it constraints which improves and boost the accuracy of prediction over time. 
+
+Below is the complete process: 
+
+
+
+
+What patterns does AlphaFold learn from training data (e.g. protein structure datasets)?
+Well it works on the Amino Acid Iterations by applying the refined MSA and representation using Rotations and translations on each Amino Acid revealing a guess in the 3D protein Structure , the cross -communicated calculations happen 48 times before it reaches the MSA and Pair refined, then it applies physical and chemical constrains dictated by atomic bond, angles and torsional angles then iterates it back to the evoformer and the structures the model process by additional 3 times to have a total for 4 cycles before it predictive the 3d coordinated and output it. 
+Real world applications: 
+Discovering Drugs that bind tightly to protein pockets 
+SARS-CoV-2:  Targeting the Spike protein of SARS Cov-2 
+Alpahfold’s ability to predict protein structures with high accuracy helps by identifying the precise shape and characteristics of these binding packets. 
+The challenge was that they had to target  on human cells and they have to go on bed experimental using the tools such as X-ray crystallography Nuclear Magnetic Resonance and cryoelectronic microscopy but these methods are expensive and take time to have results to rebuild the structure but with alphafold’s and its high accuracy things were easier to come as DNA was transcribed to RNA and translated into Amino acid sequence.
+The outcome is to accelerate the drug and vaccine development to overcome the pandemic happened in year 2020, these techniques helped to come up with a vaccination in short notice compared to previous virus spread , even though we were obliged to had the vaccination nerveless if it boosted our immunity or didn’t , the future will reveal its advantages and disadvantages . 
+Other industries can rely on its research: 
+•	Managing plastic pollution
+91% of all plastic ever produced has never been recycled. AlphaFold could help us face up to the challenge of cleaning up our world.
+•	Supporting global food supplies
+40% of the world’s crops are lost to disease each year. AlphaFold could unlock insights that help keep food on tables.
+•	Increasing honeybees’ chances of survival
+Researchers have used AlphaFold to understand vitellogenin, a protein fundamental to the immune system of honeybees. This allowed them to cut research time from years to days, laying the foundation for new work that could help increase this vital species’ chances of survival
+
+Conclusion : 
+Alphafold’s success highlights AI’s potential to accelerate the progress in complex real-world problems by its accuracy in predicting protein structure , within its Deep mind and Evo former neural networks , doors can be opened to ither industries for impactful , successful solution within Animals, Plants , Environment and others.
+
+
+
+ 
+
